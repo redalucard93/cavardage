@@ -1,0 +1,80 @@
+@font-face {
+    font-family: 'Cantarell';
+    src:    url('../font/Cantarell-Regular.ttf') format('opentype');
+}
+
+.gray_color {
+    background-color: #ffffff;
+}
+
+.shadow_top {
+    box-shadow: 10px 0px 20px #9c9c9c;
+}
+
+.presentation {
+    background-color: #dddddd;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    box-shadow: 10px 0px 20px #9c9c9c;
+}
+
+.presentation p {
+    font-family: Cantarell;
+    color: #5e5e5e;
+}
+
+.presentation h2 {
+    font-family: Cantarell;
+}
+
+.games {
+    background-color: #ffffff;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    box-shadow: 10px 0px 20px #9c9c9c;
+}
+
+.games p {
+    font-family: Cantarell;
+    color: #5e5e5e;
+}
+
+.games h2 {
+    font-family: Cantarell;
+    color: #5e5e5e;
+}
+
+.btn:hover {
+    cursor: pointer;
+}
+
+footer {
+    padding-top: 30px;
+    background-color: #343A40;
+    color: #7b858e;
+    margin-bottom: -20px;
+    padding-bottom: 10px;
+
+    box-shadow: 10px 0px 30px #272727;
+}
+
+footer a {
+    color: #7b858e;
+}
+
+.aFooter {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+footer a:link { 
+    text-decoration:none;
+} 
+
+footer a:hover {
+    color: #9da9b4;
+}
+
+.block_games:hover {
+    background-color: #eaeaea;
+}

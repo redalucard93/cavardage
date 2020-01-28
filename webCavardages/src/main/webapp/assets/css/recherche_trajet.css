@@ -1,0 +1,18 @@
+.bloc_trajet {
+	background-color: #d9f9d3;
+	padding-top: 5px;
+	box-shadow: 0px 0px 10px #d9f9d3;
+}
+
+.bloc_trajet_2 {
+	background-color: #d3d4f9;
+	padding-top: 5px;
+	box-shadow: 0px 0px 10px #d3d4f9;
+}
+
+.profil_trajet {
+	border-right: 1px solid #878787;
+}
+
+.info_trajet {
+}
